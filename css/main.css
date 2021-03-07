@@ -1,0 +1,19 @@
+a {
+  text-decoration: none;
+  color: black !important; }
+
+.navbar {
+  margin-left: 65px;
+  margin-right: 65px;
+  margin-top: 20px; }
+
+.navbar-collapse {
+  justify-content: flex-end;
+  font-size: 20px;
+  text-decoration: none; }
+
+.navbar-nav {
+  width: 55%;
+  justify-content: space-between; }
+
+/*# sourceMappingURL=main.css.map */
